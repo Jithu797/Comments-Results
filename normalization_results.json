@@ -1,0 +1,82 @@
+{
+  "rows": [
+    {
+      "original": "u r gonna regret this i swear",
+      "colloquial_words": "gonna, r, u",
+      "n_colloquial": 3,
+      "normalized": "you are going to regret this i swear",
+      "detect_us": 3.83,
+      "normalize_us": 4.29,
+      "total_us": 8.11
+    },
+    {
+      "original": "lemme tell u smth, ur such an idiot",
+      "colloquial_words": "lemme, smth, u, ur",
+      "n_colloquial": 4,
+      "normalized": "let me tell you something, your such an idiot",
+      "detect_us": 4.38,
+      "normalize_us": 5.87,
+      "total_us": 10.25
+    },
+    {
+      "original": "tbh idk wut ur talkin about",
+      "colloquial_words": "idk, tbh, ur, wut",
+      "n_colloquial": 4,
+      "normalized": "to be honest I do not know what your talkin about",
+      "detect_us": 3.52,
+      "normalize_us": 3.91,
+      "total_us": 7.43
+    },
+    {
+      "original": "gimme that back or imma lose it",
+      "colloquial_words": "gimme, imma",
+      "n_colloquial": 2,
+      "normalized": "give me that back or I am going to lose it",
+      "detect_us": 3.82,
+      "normalize_us": 4.18,
+      "total_us": 8.0
+    },
+    {
+      "original": "cmon dont be sucha jerk",
+      "colloquial_words": "cmon, dont, sucha",
+      "n_colloquial": 3,
+      "normalized": "come on do not be such a jerk",
+      "detect_us": 3.01,
+      "normalize_us": 3.41,
+      "total_us": 6.41
+    },
+    {
+      "original": "thx for the help u r gr8",
+      "colloquial_words": "gr8, r, thx, u",
+      "n_colloquial": 4,
+      "normalized": "thanks for the help you are great",
+      "detect_us": 4.58,
+      "normalize_us": 5.12,
+      "total_us": 9.7
+    },
+    {
+      "original": "yall gotta stop postin this cuz its dumb",
+      "colloquial_words": "cuz, gotta, yall",
+      "n_colloquial": 3,
+      "normalized": "you all got to stop postin this because its dumb",
+      "detect_us": 6.71,
+      "normalize_us": 9.65,
+      "total_us": 16.36
+    },
+    {
+      "original": "idc wat u think, u wont win",
+      "colloquial_words": "idc, u, wat, wont",
+      "n_colloquial": 5,
+      "normalized": "I do not care what you think, you will not win",
+      "detect_us": 7.51,
+      "normalize_us": 4.44,
+      "total_us": 11.95
+    }
+  ],
+  "summary": {
+    "detect_us": 4.669722531249931,
+    "normalize_us": 5.108330062500155,
+    "total_us": 9.778052593750086,
+    "lexicon_size": 49
+  }
+}
